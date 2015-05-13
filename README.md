@@ -1,0 +1,2 @@
+# Googleable
+class setup file
